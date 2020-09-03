@@ -22,9 +22,8 @@ remove his hand from the threshold line.
 
   ![](Images/hand.jpg)
   
-  ![](Images(testing1.jpg)
+  ![](Images/testing1.jpg)
   
-  ![](Images(testing2.jpg)
+  ![](Images/testing2.jpg)
   
-  ![](Images(testing3.jpg)
-
+  ![](Images/testing3.jpg)
