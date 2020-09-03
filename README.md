@@ -10,8 +10,9 @@ In general in the cement industry, usually workers are working with Shredder Mac
 but sometimes there might be a chances that due to unexpectedly or with worker minimum attention workers are losing their hands or got injured to their hands.
 
   ![](Images/1_hand_machine.jpg)
-  ![](Images/2_Injured Hand.jpg)
-
+  
+  ![](Images/2_InjuredHand.jpg)
+  
 <h3>Business Solution:</h3> 
 
 With the help of DeepLearning using the Object detection model we have developed a model to find hand detection and make an alert to the worker.  
