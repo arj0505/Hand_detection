@@ -9,7 +9,7 @@ This project is contributed to one of the cement factory company, which is locat
 In general in the cement industry, usually workers are working with Shredder Machine to reproduce the new product from the scrap. 
 but sometimes there might be a chances that due to unexpectedly or with worker minimum attention workers are losing their hands or got injured to their hands.
 
- ![alt text](https://github.com/arj0505/Hand_detection/tree/master/Images/1_hand_machine.png)   
+ !(https://github.com/arj0505/Hand_detection/tree/master/Images/1_hand_machine.png)   
 
  
 Business Solution:  
