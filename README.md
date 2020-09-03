@@ -1,13 +1,16 @@
 Hand Detection Shredder Machine Project 
 
-About this Project: 
+<h2>About this Project: </h2>
 
 This project is contributed to one of the cement factory company, which is located in Spain.
 
-Business Problem:  
+<h3>Business Problem:  <h3>
 
 In general in the cement industry, usually workers are working with Shredder Machine to reproduce the new product from the scrap. 
 but sometimes there might be a chances that due to unexpectedly or with worker minimum attention workers are losing their hands or got injured to their hands.
+
+ ![alt text](https://github.com/arj0505/Hand_detection/tree/master/Images/1_hand_machine.png)   
+
  
 Business Solution:  
 
