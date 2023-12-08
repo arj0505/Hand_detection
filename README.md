@@ -25,5 +25,3 @@ For suppose, if a person's hand crosses the safety borderline, he/she will get a
   ![](Images/testing1.JPG)
   
   ![](Images/testing2.JPG)
-  
-  ![](Images/testing3.jpg)
