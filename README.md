@@ -6,8 +6,7 @@
 
 <h3>Business Problem:</h3>
 
-In general in the cement factory industry, usually workers are working with Shredder Machine to reproduce the new product from the scrap. 
-but sometimes there might be a chances that to unexpectedly or with the worker minimum attention workers are losing their hands or got injured to their hands.
+Implementing a hand detection model for a shredder machine in a factory involves combining computer vision and deep learning techniques to ensure the safety of workers and prevent accidents. By implementing this project a careful balance between accuracy, real-time processing, and safety considerations. Regular monitoring and updates are essential to maintain the effectiveness of the system over time.
 
   ![](Images/1_hand_machine.jpg)
   
@@ -15,9 +14,9 @@ but sometimes there might be a chances that to unexpectedly or with the worker m
   
 <h3>Business Solution:</h3> 
 
-With the help of DeepLearning using the Object detection model we have developed a model to find hand detection and display alert message to the worker.  
-In this project, First it will find the hand detection and then we created a safety border line. 
-For suppose, if a person hand cross to safety border line, you will get alert message along with alarming sound to alert the worker, and also it stops the process until that the person has to remove his hand from the safety border line.
+With the help of DeepLearning using the Object detection model, we have developed a model to find hand detection and display alert messages to the worker.  
+In this project, First, we will find the hand detection and then we will create a safety borderline. 
+For suppose, if a person's hand crosses the safety borderline, he/she will get an alert message along with an alarming sound. so that it's alert the worker, and also stops the process until the person removes his hand from the safety border line.
 
   ![](Images/hand.jpg)
   
